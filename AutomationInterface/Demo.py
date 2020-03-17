@@ -12,3 +12,5 @@ header={'Connection': 'keep-alive',
         'Accept-Language': 'zh-CN,zh;q=0.9"'}
 resp =requests.post(url=url,data=data,headers=header)
 print(resp.text,resp.status_code)
+
+print(1)
