@@ -1,0 +1,8 @@
+2020-03-15 01:45:43,671 - common.py[line:71] - INFO - this is a logger info message
+2020-03-15 01:45:43,671 - common.py[line:72] - DEBUG - this is a logger debug message
+2020-03-15 01:45:43,671 - common.py[line:73] - WARNING - this is a logger warning message
+2020-03-15 01:45:43,671 - common.py[line:74] - INFO - Finish
+2020-03-15 02:03:49,743 - common.py[line:71] - INFO - this is a logger info message
+2020-03-15 02:03:49,743 - common.py[line:72] - DEBUG - this is a logger debug message
+2020-03-15 02:03:49,743 - common.py[line:73] - WARNING - this is a logger warning message
+2020-03-15 02:03:49,743 - common.py[line:74] - INFO - Finish

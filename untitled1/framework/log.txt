@@ -1,0 +1,864 @@
+2019-04-28 15:26:15,851 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 15:26:15,852 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 15:26:15,852 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 15:26:15,852 - common.py[line:104] - INFO - Finish
+2019-04-28 15:26:24,041 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 15:26:24,041 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 15:26:24,041 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 15:26:24,041 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 15:26:24,041 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 15:26:24,041 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 15:26:24,042 - common.py[line:104] - INFO - Finish
+2019-04-28 15:26:24,042 - common.py[line:104] - INFO - Finish
+2019-04-28 15:26:32,985 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 15:26:32,985 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 15:26:32,985 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 15:26:32,986 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 15:26:32,986 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 15:26:32,986 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 15:26:32,986 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 15:26:32,986 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 15:26:32,986 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 15:26:32,986 - common.py[line:104] - INFO - Finish
+2019-04-28 15:26:32,986 - common.py[line:104] - INFO - Finish
+2019-04-28 15:26:32,986 - common.py[line:104] - INFO - Finish
+2019-04-28 15:26:41,910 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 15:26:41,910 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 15:26:41,910 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 15:26:41,910 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 15:26:41,910 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 15:26:41,910 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 15:26:41,910 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 15:26:41,910 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 15:26:41,911 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 15:26:41,911 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 15:26:41,911 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 15:26:41,911 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 15:26:41,911 - common.py[line:104] - INFO - Finish
+2019-04-28 15:26:41,911 - common.py[line:104] - INFO - Finish
+2019-04-28 15:26:41,911 - common.py[line:104] - INFO - Finish
+2019-04-28 15:26:41,911 - common.py[line:104] - INFO - Finish
+2019-04-28 16:05:00,348 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 16:05:00,348 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 16:05:00,348 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 16:05:00,349 - common.py[line:104] - INFO - Finish
+2019-04-28 16:09:35,944 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 16:09:35,944 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 16:09:35,945 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 16:09:35,945 - common.py[line:104] - INFO - Finish
+2019-04-28 16:10:20,508 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 16:10:20,508 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 16:10:20,508 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 16:10:20,508 - common.py[line:104] - INFO - Finish
+2019-04-28 16:12:27,544 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 16:12:27,544 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 16:12:27,544 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 16:12:27,544 - common.py[line:104] - INFO - Finish
+2019-04-28 16:13:22,561 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 16:13:22,561 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 16:13:22,561 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 16:13:22,561 - common.py[line:104] - INFO - Finish
+2019-04-28 16:15:21,461 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 16:15:21,461 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 16:15:21,461 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 16:15:21,461 - common.py[line:104] - INFO - Finish
+2019-04-28 16:18:21,885 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 16:18:21,886 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 16:18:21,886 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 16:18:21,886 - common.py[line:104] - INFO - Finish
+2019-04-28 16:33:41,966 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 16:33:41,966 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 16:33:41,966 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 16:33:41,966 - common.py[line:104] - INFO - Finish
+2019-04-28 16:37:04,452 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 16:37:04,452 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 16:37:04,452 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 16:37:04,452 - common.py[line:104] - INFO - Finish
+2019-04-28 16:37:42,983 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 16:37:42,983 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 16:37:42,983 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 16:37:42,983 - common.py[line:104] - INFO - Finish
+2019-04-28 16:39:07,024 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 16:39:07,024 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 16:39:07,024 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 16:39:07,024 - common.py[line:104] - INFO - Finish
+2019-04-28 17:02:11,411 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:02:11,411 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:02:11,411 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:02:11,411 - common.py[line:104] - INFO - Finish
+2019-04-28 17:02:59,072 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:02:59,072 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:02:59,073 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:02:59,073 - common.py[line:104] - INFO - Finish
+2019-04-28 17:05:29,494 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:05:29,494 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:05:29,494 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:05:29,494 - common.py[line:104] - INFO - Finish
+2019-04-28 17:05:48,782 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:05:48,782 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:05:48,782 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:05:48,782 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:01,822 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:01,822 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:01,822 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:01,822 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:10,028 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:10,028 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:10,028 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:10,028 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:10,028 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:10,028 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:10,028 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:10,028 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:18,989 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:18,989 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:18,989 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:18,989 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:18,989 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:18,989 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:18,989 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:18,989 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:18,989 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:18,989 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:18,989 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:18,989 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:27,841 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:27,841 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:27,841 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:27,841 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:27,841 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:27,841 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:27,841 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:27,841 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:27,841 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:27,841 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:27,841 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:27,841 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:27,841 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:27,841 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:27,841 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:27,841 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:36,568 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:36,568 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:36,568 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:36,568 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:36,568 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:36,568 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:36,568 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:36,568 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:36,568 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:36,568 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:36,568 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:36,568 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:36,568 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:36,568 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:36,568 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:36,568 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:36,568 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:36,568 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:36,568 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:36,568 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:44,987 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:44,987 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:44,987 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:44,987 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:44,987 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:44,987 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:44,988 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:44,988 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:44,988 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:44,988 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:44,988 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:44,988 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:44,988 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:44,988 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:44,988 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:44,988 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:44,988 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:44,988 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:44,988 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:44,988 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:44,988 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:44,988 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:44,988 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:44,988 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:53,761 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:53,761 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:53,761 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:53,761 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:53,761 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:53,761 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:53,761 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:07:53,762 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:53,762 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:53,762 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:53,762 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:53,762 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:53,762 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:53,762 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:07:53,762 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:53,762 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:53,762 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:53,762 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:53,762 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:53,762 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:53,762 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:07:53,762 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:53,762 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:53,762 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:53,762 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:53,762 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:53,762 - common.py[line:104] - INFO - Finish
+2019-04-28 17:07:53,762 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:02,499 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:02,499 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:02,499 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:02,499 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:02,499 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:02,499 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:02,499 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:02,499 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:02,500 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:02,500 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:02,500 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:02,500 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:02,500 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:02,500 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:02,500 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:02,500 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:02,500 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:02,500 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:02,500 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:02,500 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:02,500 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:02,500 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:02,500 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:02,500 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:02,500 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:02,500 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:02,500 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:02,500 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:02,500 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:02,500 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:02,500 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:02,500 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:11,354 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:11,354 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:11,354 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:11,354 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:11,354 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:11,354 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:11,354 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:11,354 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:11,354 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:11,354 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:11,354 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:11,354 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:11,354 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:11,354 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:11,354 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:11,354 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:11,354 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:11,354 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:11,355 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:11,355 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:11,355 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:11,355 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:11,355 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:11,355 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:11,355 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:11,355 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:11,355 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:11,355 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:11,355 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:11,355 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:11,355 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:11,355 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:11,355 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:11,355 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:11,355 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:11,355 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:20,235 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:20,235 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:20,235 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:20,235 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:20,235 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:20,235 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:20,235 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:20,235 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:20,235 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:20,235 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:20,235 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:20,235 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:20,235 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:20,235 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:20,235 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:20,235 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:20,235 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:20,235 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:20,235 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:20,235 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:20,235 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:20,235 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:20,235 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:20,235 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:20,235 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:20,235 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:20,235 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:20,235 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:20,235 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:20,235 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:20,235 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:20,235 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:20,235 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:20,235 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:20,235 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:20,235 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:20,235 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:20,235 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:20,235 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:20,235 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:28,919 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:28,919 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:28,919 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:28,919 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:28,919 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:28,919 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:28,919 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:28,919 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:28,919 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:28,919 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:28,919 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:28,919 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:28,919 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:28,919 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:28,919 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:28,919 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:28,919 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:28,919 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:28,919 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:28,919 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:28,919 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:28,919 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:28,919 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:28,919 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:28,919 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:28,919 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:28,919 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:28,919 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:28,919 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:28,919 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:28,919 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:28,919 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:28,919 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:28,920 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:28,920 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:28,920 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:28,920 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:28,920 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:28,920 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:28,920 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:28,920 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:28,920 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:28,920 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:28,920 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:37,663 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:37,663 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:37,663 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:37,663 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:37,663 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:37,663 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:37,663 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:37,663 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:37,663 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:37,663 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:37,663 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:37,663 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:37,664 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:37,664 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:37,664 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:37,664 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:37,664 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:37,664 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:37,664 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:37,664 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:37,664 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:37,664 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:37,664 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:37,664 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:37,664 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:37,664 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:37,664 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:37,664 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:37,664 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:37,664 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:37,664 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:37,664 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:37,664 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:37,664 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:37,664 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:37,664 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:37,664 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:37,664 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:37,664 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:37,664 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:37,664 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:37,664 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:37,664 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:37,664 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:37,664 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:37,664 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:37,664 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:37,664 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:46,448 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:46,448 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:46,448 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:46,448 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:46,448 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:46,448 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:46,448 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:46,448 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:46,448 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:46,448 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:46,448 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:46,448 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:46,448 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:08:46,448 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:46,448 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:46,448 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:46,448 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:46,448 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:46,448 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:46,448 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:46,448 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:46,448 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:46,448 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:46,448 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:46,448 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:46,448 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:08:46,449 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:46,449 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:46,449 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:46,449 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:46,449 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:46,449 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:46,449 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:46,449 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:46,449 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:46,449 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:46,449 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:46,449 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:46,449 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:08:46,449 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:46,449 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:46,449 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:46,449 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:46,449 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:46,449 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:46,449 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:46,449 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:46,449 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:46,449 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:46,449 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:46,449 - common.py[line:104] - INFO - Finish
+2019-04-28 17:08:46,449 - common.py[line:104] - INFO - Finish
+2019-04-28 17:16:18,568 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:16:18,569 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:16:18,569 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:16:18,569 - common.py[line:104] - INFO - Finish
+2019-04-28 17:16:26,957 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:16:26,957 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:16:26,958 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:16:26,958 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:16:26,958 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:16:26,958 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:16:26,958 - common.py[line:104] - INFO - Finish
+2019-04-28 17:16:26,958 - common.py[line:104] - INFO - Finish
+2019-04-28 17:22:50,699 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:22:50,699 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:22:50,699 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:22:50,699 - common.py[line:104] - INFO - Finish
+2019-04-28 17:23:47,885 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:23:47,885 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:23:47,885 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:23:47,885 - common.py[line:104] - INFO - Finish
+2019-04-28 17:23:56,767 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:23:56,767 - common.py[line:101] - INFO - this is a logger info message
+2019-04-28 17:23:56,767 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:23:56,767 - common.py[line:102] - DEBUG - this is a logger debug message
+2019-04-28 17:23:56,767 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:23:56,767 - common.py[line:103] - WARNING - this is a logger warning message
+2019-04-28 17:23:56,767 - common.py[line:104] - INFO - Finish
+2019-04-28 17:23:56,767 - common.py[line:104] - INFO - Finish
+2019-04-28 19:09:19,026 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:19,026 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:19,027 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:19,027 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:27,577 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:27,577 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:27,577 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:27,577 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:27,577 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:27,577 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:27,578 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:27,578 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:36,775 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:36,775 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:36,775 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:36,775 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:36,775 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:36,775 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:36,776 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:36,776 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:36,776 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:36,776 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:36,776 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:36,776 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:45,799 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:45,799 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:45,799 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:45,799 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:45,800 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:45,800 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:45,800 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:45,800 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:45,800 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:45,800 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:45,800 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:45,800 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:45,800 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:45,800 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:45,800 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:45,800 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:54,542 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:54,542 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:54,542 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:54,542 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:54,542 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:09:54,542 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:54,542 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:54,542 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:54,542 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:54,542 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:09:54,542 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:54,542 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:54,542 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:54,542 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:54,542 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:09:54,542 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:54,542 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:54,542 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:54,542 - common.py[line:103] - INFO - Finish
+2019-04-28 19:09:54,542 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:02,986 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:02,986 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:02,986 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:02,986 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:02,986 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:02,986 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:02,986 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:02,986 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:02,986 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:02,986 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:02,986 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:02,986 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:02,986 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:02,986 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:02,986 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:02,986 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:02,986 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:02,986 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:02,986 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:02,986 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:02,986 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:02,986 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:02,986 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:02,986 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:11,758 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:11,758 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:11,758 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:11,758 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:11,758 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:11,758 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:11,758 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:11,758 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:11,758 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:11,758 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:11,758 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:11,758 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:11,758 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:11,758 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:11,758 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:11,758 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:11,758 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:11,758 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:11,758 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:11,758 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:11,758 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:11,759 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:11,759 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:11,759 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:11,759 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:11,759 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:11,759 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:11,759 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:20,537 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:20,537 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:20,537 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:20,537 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:20,537 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:20,537 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:20,537 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:20,537 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:20,538 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:20,538 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:20,538 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:20,538 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:20,538 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:20,538 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:20,538 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:20,538 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:20,538 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:20,538 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:20,538 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:20,538 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:20,538 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:20,538 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:20,538 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:20,538 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:20,538 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:20,538 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:20,538 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:20,538 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:20,538 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:20,538 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:20,538 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:20,538 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:29,469 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:29,469 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:29,469 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:29,469 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:29,469 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:29,469 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:29,469 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:29,469 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:29,469 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:29,470 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:29,470 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:29,470 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:29,470 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:29,470 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:29,470 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:29,470 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:29,470 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:29,470 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:29,470 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:29,470 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:29,470 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:29,470 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:29,470 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:29,470 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:29,470 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:29,470 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:29,470 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:29,471 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:29,471 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:29,471 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:29,471 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:29,471 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:29,471 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:29,471 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:29,471 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:29,471 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:38,347 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:38,347 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:38,347 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:38,347 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:38,347 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:38,347 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:38,347 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:38,347 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:38,347 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:38,347 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:38,348 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:38,348 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:38,348 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:38,348 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:38,348 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:38,348 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:38,348 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:38,348 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:38,348 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:38,348 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:38,348 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:38,348 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:38,348 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:38,348 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:38,348 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:38,348 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:38,348 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:38,348 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:38,348 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:38,348 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:38,348 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:38,348 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:38,348 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:38,348 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:38,348 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:38,348 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:38,348 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:38,348 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:38,348 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:38,348 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:47,103 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:47,103 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:47,103 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:47,103 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:47,103 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:47,103 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:47,103 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:47,103 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:47,103 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:47,103 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:47,103 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:47,103 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:47,103 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:47,103 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:47,103 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:47,103 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:47,103 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:47,103 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:47,103 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:47,103 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:47,103 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:47,103 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:47,104 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:47,104 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:47,104 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:47,104 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:47,104 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:47,104 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:47,104 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:47,104 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:47,104 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:47,104 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:47,104 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:47,104 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:47,104 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:47,104 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:47,104 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:47,104 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:47,104 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:47,104 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:47,104 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:47,104 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:47,104 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:47,104 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:55,875 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:55,875 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:55,875 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:55,875 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:55,875 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:55,875 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:55,875 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:55,875 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:55,875 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:55,875 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:55,875 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:55,875 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:10:55,876 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:55,876 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:55,876 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:55,876 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:55,876 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:55,876 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:55,876 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:55,876 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:55,876 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:55,876 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:55,876 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:55,876 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:10:55,876 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:55,876 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:55,876 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:55,876 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:55,876 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:55,876 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:55,876 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:55,876 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:55,876 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:55,876 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:55,876 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:55,876 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:10:55,876 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:55,876 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:55,876 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:55,876 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:55,876 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:55,876 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:55,876 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:55,876 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:55,876 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:55,876 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:55,876 - common.py[line:103] - INFO - Finish
+2019-04-28 19:10:55,876 - common.py[line:103] - INFO - Finish
+2019-04-28 19:11:04,649 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:11:04,649 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:11:04,649 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:11:04,649 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:11:04,649 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:11:04,649 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:11:04,649 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:11:04,649 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:11:04,649 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:11:04,649 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:11:04,649 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:11:04,649 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:11:04,649 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 19:11:04,649 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:11:04,649 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:11:04,649 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:11:04,649 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:11:04,649 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:11:04,649 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:11:04,649 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:11:04,649 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:11:04,649 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:11:04,649 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:11:04,649 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:11:04,649 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:11:04,649 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 19:11:04,650 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:11:04,650 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:11:04,650 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:11:04,650 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:11:04,650 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:11:04,650 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:11:04,650 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:11:04,650 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:11:04,650 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:11:04,650 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:11:04,650 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:11:04,650 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:11:04,650 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 19:11:04,650 - common.py[line:103] - INFO - Finish
+2019-04-28 19:11:04,650 - common.py[line:103] - INFO - Finish
+2019-04-28 19:11:04,650 - common.py[line:103] - INFO - Finish
+2019-04-28 19:11:04,650 - common.py[line:103] - INFO - Finish
+2019-04-28 19:11:04,650 - common.py[line:103] - INFO - Finish
+2019-04-28 19:11:04,650 - common.py[line:103] - INFO - Finish
+2019-04-28 19:11:04,650 - common.py[line:103] - INFO - Finish
+2019-04-28 19:11:04,650 - common.py[line:103] - INFO - Finish
+2019-04-28 19:11:04,650 - common.py[line:103] - INFO - Finish
+2019-04-28 19:11:04,650 - common.py[line:103] - INFO - Finish
+2019-04-28 19:11:04,650 - common.py[line:103] - INFO - Finish
+2019-04-28 19:11:04,650 - common.py[line:103] - INFO - Finish
+2019-04-28 19:11:04,650 - common.py[line:103] - INFO - Finish
+2019-04-28 20:10:32,900 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 20:10:32,901 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 20:10:32,901 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 20:10:32,901 - common.py[line:103] - INFO - Finish
+2019-04-28 20:16:38,073 - common.py[line:100] - INFO - this is a logger info message
+2019-04-28 20:16:38,074 - common.py[line:101] - DEBUG - this is a logger debug message
+2019-04-28 20:16:38,074 - common.py[line:102] - WARNING - this is a logger warning message
+2019-04-28 20:16:38,074 - common.py[line:103] - INFO - Finish
